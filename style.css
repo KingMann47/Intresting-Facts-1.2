@@ -1,0 +1,37 @@
+h1{
+    color: rgb(0, 27, 68);
+  }
+  *{
+    background-color: rgb(250, 248, 135);
+}
+header{
+ 
+  flex-wrap: wrap;
+  display: flex;
+  border: solid;
+  background-color: rgb(146, 68, 0);
+}
+
+.tle{
+    color: rgb(64, 0, 241);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+li{
+
+   flex-wrap: wrap;
+   display: flex;
+    font-family: fantasy;
+    font-size: larger;
+    border:solid rgb(58, 17, 17);
+    color:rgb(92, 62, 52);
+}
+p{
+
+  flex-wrap: wrap;
+  display: flex;
+  font-family: monospace;
+  font-size: xx-large;
+  border: solid rgb(0, 71, 36);
+  color: rgb(71, 160, 49);
+}
